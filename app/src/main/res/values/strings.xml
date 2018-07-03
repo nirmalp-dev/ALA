@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ALA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="batches">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="subject">
+        <item>Java</item>
+        <item>Sys.Prog.</item>
+        <item>Algo</item>
+        <item>C.G.</item>
+        <item>C.S.</item>>
+    </string-array>
+</resources>
